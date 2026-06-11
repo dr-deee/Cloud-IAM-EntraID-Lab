@@ -12,7 +12,9 @@ The goal was to gain hands-on experience with cloud identity management while do
 
 ## Architecture Diagram
 
-Check Architecture > EntralD-Architecture-Diagram.drawio.png
+## Architecture Diagram
+
+![Microsoft Entra ID Architecture](Architecture/EntraID-Architecture-Diagram.png)
 
 ---
 
