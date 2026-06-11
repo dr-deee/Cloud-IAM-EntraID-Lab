@@ -12,9 +12,9 @@ The goal was to gain hands-on experience with cloud identity management while do
 
 ## Architecture Diagram
 
-## Architecture Diagram
+[Microsoft Entra ID Architecture](Architecture/EntraID-Architecture-Diagram.drawio.png)
 
-![Microsoft Entra ID Architecture](Architecture/EntraID-Architecture-Diagram.png)
+
 
 ---
 
